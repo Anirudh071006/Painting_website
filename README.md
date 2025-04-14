@@ -15,7 +15,7 @@ A simple, interactive painting website that allows users to draw on a digital ca
 
 ## 🖼️ Demo
 
-[Click here to view live demo](#) *(Add your hosted link here)*
+[(https://anirudh071006.github.io/Painting_website/)]
 
 ## 🚀 Technologies Used
 
